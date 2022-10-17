@@ -58,6 +58,7 @@ int Options = 0;
 
 int main()
 {
+	//
 	// glfw: initialize and configure
 	// ------------------------------
 	//glfwInit();
